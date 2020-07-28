@@ -1,1 +1,3 @@
-# homework6
+# homework12
+
+![ScreenShot](./screenshot.png)
